@@ -1,0 +1,39 @@
+_repo: Little-Hickory-or-Ragged-Rob-s-young-republic_68532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browne, George Waldo
+    aliases:
+    - Browne, G. Waldo (George Waldo)
+    - Browne, George W. (George Waldo)
+    - St. Clair, Victor
+    - Clair, Victor St.
+    - Saint Clair, Victor
+    birthdate: 1851
+    deathdate: 1930
+    gutenberg_agent_id: '37233'
+    url: http://www.gutenberg.org/2009/agents/37233
+description: ''
+gutenberg_issued: '2022-07-15'
+identifiers:
+  gutenberg: '68532'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:689010
+pgterms:marc905: 20220313084948stclair
+pgterms:marc906: '1901'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Street & Smith,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bound-to-win library; no. 4
+subjects:
+- !lcsh 'Poor -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Teenage boys -- Fiction'
+- GITenberg
+title: Little Hickory; or, Ragged Rob's young republic
+url: http://www.gutenberg.org/ebooks/68532
