@@ -1,5 +1,8 @@
 _repo: Little-Hickory-or-Ragged-Rob-s-young-republic_68532
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68532-h/images/cover.jpg
 creator:
   author:
     agent_name: Browne, George Waldo
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '37233'
     url: http://www.gutenberg.org/2009/agents/37233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68532#Little-Hickory-or-Ragged-Rob-s-young-republic
 gutenberg_issued: '2022-07-15'
 identifiers:
   gutenberg: '68532'
